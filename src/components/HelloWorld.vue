@@ -47,6 +47,18 @@ export default {
           title: "eat chocolate 1 kilogram in 1 hour",
           status: "finished"
         },
+        {
+          title: "go home",
+          status: "to-do"
+        },
+        {
+          title: "go home",
+          status: "finished"
+        },
+        {
+          title: "go home",
+          status: "to-do"
+        },
       ],
     }
   },
