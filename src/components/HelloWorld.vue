@@ -4,7 +4,6 @@
     <div class="col-md-10">
       <input type="text" class="form-control" v-model="itemInput" />
     </div>
-
     <div class="col-md-2">
       <button @click="addItem" class="btn btn-success">Add Item</button>
     </div>
